@@ -1,3 +1,10 @@
+---
+layout: page
+title: Hello World!
+tagline: Supporting tagline
+---
+{% include JB/setup %}
+
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
